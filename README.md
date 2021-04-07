@@ -1,6 +1,6 @@
 # sample-repo
 
-``` python-3
+``` python
 import markdown
 print(markdown)
 ```
